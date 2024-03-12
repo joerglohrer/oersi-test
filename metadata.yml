@@ -1,21 +1,22 @@
 ---
-name: "My OER Course"
+name: "Bibelfussball"
 creator:
-  - givenName: "Max"
-    familyName: "Mustermann"
-  - givenName: "Maxi"
-    familyName: "Mustermann"
+  - givenName: "Jörg"
+    familyName: "Lohrer"
+  - givenName: "Joerg"
+    familyName: "Lohrer"
 publisher:
-  givenName: "Max"
-  familyName: "Mustermann"
+  givenName: "Jörg"
+  familyName: "Lohrer"
 keywords:
-  - "Geometry"
-  - "Pythagoras"
-  - "Mathematics"
-description: "Draft for a course"
-inLanguage: "en"
+  - "Bibel"
+  - "interaktiv"
+  - "Altes Testament"
+  - "Neues Testament"
+description: "Nachschlage-Quiz zur Bibel"
+inLanguage: "de"
 version: 1.0
-license: "https://creativecommons.org/publicdomain/zero/1.0/"
+license: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 thumbnailUrl: http://placehold.it/100x100
-learningResourceType: "Course"
-creativeWorkStatus: "Draft" # Incomplete, Draft, Published
+learningResourceType: "Exercise"
+creativeWorkStatus: "Published" # Incomplete, Draft, Published
